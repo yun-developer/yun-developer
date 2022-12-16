@@ -3,6 +3,7 @@
 <a href="https://github.com/yun-developer" target="_blank"><img src="https://img.shields.io/badge/yun-EA4335?style=for-the-badge&logo=GitHub Sponsors&logoColor=white"/></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yun-developer&theme=swift&show_icons=true)
+ [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eun0101)](https://solved.ac/eun0101/)
 
 # Skills ⚙
 
